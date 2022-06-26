@@ -1,0 +1,9 @@
+train: ../PROJE/birlestirilmis_veriler/images/train
+val: ../PROJE/birlestirilmis_veriler/images/val 
+
+
+# Classes
+nc: 5  # number of classes
+names: ['5 kurus', '10 kurus', '25 kurus', '50 kurus', '1 lira']  
+
+
